@@ -23,4 +23,4 @@ This appears to be an issue with Dogecoin Core v1.14.4 in which they started acc
 
 works only for btc and litecoin...
 
-ooo, wait, just get the .tar.whatever file and unzip and follow as seen at https://www.youtube.com/watch?v=jw0l2Dwmi6g
+ooo, wait, just get the .tar.whatever file and unzip and follow as seen at https://www.youtube.com/watch?v=jw0l2Dwmi6g or at https://www.youtube.com/watch?v=pJm4jT7JsSM
