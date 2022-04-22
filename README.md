@@ -22,3 +22,5 @@ edit example js and edit like example in example js. run node exampl.js after in
 This appears to be an issue with Dogecoin Core v1.14.4 in which they started accepting fractional network fees. You can take the hex of your transaction and broadcast it using another service for now
 
 works only for btc and litecoin...
+
+ooo, wait, just get the .tar.whatever file and unzip and follow as seen at https://www.youtube.com/watch?v=jw0l2Dwmi6g
