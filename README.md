@@ -15,3 +15,10 @@ $ N= PRIVATE_KEY1_BIP32= PRIVATE_KEY2= DESTINATION_ADDR= NETWORK= DERIVATION_PAT
 * DESTINATION_ADDR is where you want the swept coins to go
 * NETWORK is the network for which you're sweeping coins
 * DERIVATION_PATH is the derivation path shown when you back up your private keys
+
+Read me pls:
+edit example js and edit like example in example js. run node exampl.js after installing nodejs on ur pc and running 'npm install block_io'. then run 'npm install' in cmd.
+
+This appears to be an issue with Dogecoin Core v1.14.4 in which they started accepting fractional network fees. You can take the hex of your transaction and broadcast it using another service for now
+
+works only for btc and litecoin...
